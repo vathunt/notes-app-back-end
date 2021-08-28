@@ -1,3 +1,4 @@
+/* eslint-disable no-underscore-dangle */
 // Mengimpor dotenv dan menjalankan konfigurasinya
 require('dotenv').config();
 
